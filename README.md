@@ -33,9 +33,9 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 
 ## 🧪 Selected Projects
 
-- [**Half-Earth Project Map**](https://map.half-earthproject.org/) – Geospatial biodiversity exploration for conservation planning  
-- [**Soils Revealed**](https://soilsrevealed.org/) – Visualizing the impact of land use on global carbon stocks 🌱  
-- [**Resource Watch**](https://resourcewatch.org/) – A climate and sustainability data hub for real-world impact 📊  
+- [**Half-Earth Project Map**](https://map.half-earthproject.org/) – Geospatial biodiversity exploration for conservation planning. 🌍  [💻 GitHub](https://github.com/Vizzuality/half-earth-v3)
+- [**Soils Revealed**](https://soilsrevealed.org/) – Visualizing the impact of land use on global carbon stocks 🌱.  [💻 GitHub](https://github.com/Vizzuality/soils-revealed)
+- [**Resource Watch**](https://resourcewatch.org/) – A climate and sustainability data hub for real-world impact 📊.  [💻 GitHub](https://github.com/Vizzuality/resource-watch)
 - 🏛️ Built a data viz platform for [**Sandbag**](https://sandbag.be/) and presented it at the **European Parliament** to EU environment ministers
 
 ---
