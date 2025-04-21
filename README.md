@@ -33,10 +33,22 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 
 ## 🧪 Selected Projects
 
+- ⚛️ [**Hume**](#hume) - Graph-based Connected Data Analytics Platform. Transform siloed data sources into a single view of intelligence (_proprietary code_)
 - 🌍 [**Half-Earth Project Map**](https://map.half-earthproject.org/) – Geospatial biodiversity exploration for conservation planning  [💻 GitHub](https://github.com/Vizzuality/half-earth-v3)
 - 🌱 [**Soils Revealed**](https://soilsrevealed.org/) – Visualizing the impact of land use on global carbon stocks   [💻 GitHub](https://github.com/Vizzuality/soils-revealed)
 - 📊 [**Resource Watch**](https://resourcewatch.org/) – A climate and sustainability data hub for real-world impact   [💻 GitHub](https://github.com/Vizzuality/resource-watch)
 - 🏛️ Built a data viz platform for [**Sandbag**](https://sandbag.be/) and presented it at the **European Parliament** to EU environment ministers
+
+
+<h2><a href="https://graphaware.com/hume/">Hume</a></h2>
+
+<a href="https://vimeo.com/123456789" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a4ea3da1-5974-4424-a4d3-ebb9d3d6f1b2" alt="Hume" width="500"/>
+</a>
+
+**Senior Frontend Engineer | Feb 2022 - Feb 2023**
+
+GraphAware Hume is a government-grade data analytics platform for fast and intuitive intelligence analysis. The power of graph technologies used throughout its software stack makes Hume fast, scalable, flexible, transparent, explainable, contextual, and AI-ready.
 
 ---
 
