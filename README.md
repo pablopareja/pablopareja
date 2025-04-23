@@ -19,7 +19,7 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -65,6 +65,7 @@ My role goes beyond coding: I work at the **intersection of engineering, product
 - **Reliable and Performant Frontend Architecture**: Built and maintained scalable, testable codebases using **TypeScript**, **React**, **Tailwind CSS**, **Redux**, and **Playwright**. Ensured robust integration with **Rails** backends and **PostgreSQL** databases.
 - **Commitment to Quality & Testing Culture**: Setup and maintenance of end-to-end test suites with **Playwright**, **Jest**, and Capybara, significantly reducing regressions and increasing confidence in shipping new features.
 - **Transparent Communication & Remote Collaboration**: Contributed to the health of our remote-first team culture through clear communication, progress visibility, and early surfacing of challenges. Helped maintain alignment across product, design, and engineering.
+---
 
 <h2><a id="hume" href="https://graphaware.com/hume/">Hume</a></h2>
 
@@ -80,10 +81,11 @@ GraphAware Hume is a government-grade data analytics platform for fast and intui
 
 ## 🤝 Let's connect
 
-📫 Email: [pabloparejatobes@gmail.com](mailto:pabloparejatobes@gmail.com)  
+📫 [pabloparejatobes@gmail.com](mailto:pabloparejatobes@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/pabloparejatobes)  
 🐙 [GitHub](https://github.com/pablopareja)  
-🌐 [pablopareja.com](https://pablopareja.com)
+🎶 [pablopareja.com](https://pablopareja.com)  
+🎨 [Instagram](https://www.instagram.com/pabloparejamusic/)
 
 ---
 
