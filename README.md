@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Pablo Pareja
 
-I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's passionate about building tools that matter — especially in the sustainability and social impact space. I love crafting elegant, user-centered experiences and collaborating across disciplines to turn ideas into meaningful products.
+I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's passionate about building tools that matter; especially in the sustainability and social impact space. I love crafting elegant, user-centered experiences and collaborating across disciplines to turn ideas into meaningful products.
 
 ---
 
@@ -54,7 +54,7 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 
 **Senior Product Engineer (Frontend focused) | Mar 2023 - Present**
 
-As a Senior Frontend Engineer at Strategyzer, I contribute to the development of the Innovation Platform; a real-time collaborative environment designed to help innovation teams visualize, test, and validate business ideas using tools like the Business Model Canvas and Value Proposition Canvas.
+As a Senior Product Engineer (Frontend focused) at Strategyzer, I contribute to the development of the Innovation Platform; a real-time collaborative environment designed to help innovation teams visualize, test, and validate business ideas using tools like the Business Model Canvas and Value Proposition Canvas.
 
 My role goes beyond coding: I work at the **intersection of engineering, product, and design**, consistently seeking to understand product vision and user needs to deliver meaningful, high-quality solutions.
 
