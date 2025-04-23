@@ -41,7 +41,7 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 - 🏛️ Built a data viz platform for [**Sandbag**](https://sandbag.be/) and presented it at the **European Parliament** to EU environment ministers
 
 
-<h2><a id="strategyzer-innovation-platform" href="[https://graphaware.com/hume/](https://www.strategyzer.com/platform)">Strategyzer's Innovation Platform</a></h2>
+<h2><a id="strategyzer-innovation-platform" href="https://www.strategyzer.com/platform">Strategyzer's Innovation Platform</a></h2>
 
 <div align="left">
   <img height="250" alt="Automatic Interviews" src="https://github.com/user-attachments/assets/6d3fd449-0bd7-462c-a448-81cc57044859" />
