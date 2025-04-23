@@ -9,7 +9,7 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 - 🌍 **Helping teams build data-driven visual tools to fight climate change, work towards sustainability, and have a positive impact on society**
 - 🛠️ Currently building a collaborative visual innovation platform at [Strategyzer](https://www.strategyzer.com/)
 - ⚛️ Graph-based data visualizations and tools to identify patterns and insights in large-scale, highly interconnected data 
-- ✨ Exploring creative coding, digital art, and interactive data visualizations
+- 🎨 Exploring creative coding, digital art, and interactive data visualizations
 - 🎶 I also happen to be a composer and multi-instrumentalist 🎹🎤🎸. You can check my music [here](https://pablopareja.com/) or follow me on [IG](https://www.instagram.com/pabloparejamusic/) _(you’ll also find some of my artwork as an illustrator there too 🎨🖌️)_
 
 ---
@@ -33,6 +33,7 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 
 ## 🧪 Selected Projects
 
+- 💡 [**Strategyzer's Innovation Platform**](#strategyzer-innovation-platform) - 
 - ⚛️ [**Hume**](#hume) - Graph-based Connected Data Analytics Platform. Transform siloed data sources into a single view of intelligence (_proprietary code_)
 - 🌍 [**Half-Earth Project Map**](https://map.half-earthproject.org/) – Geospatial biodiversity exploration for conservation planning  [💻 GitHub](https://github.com/Vizzuality/half-earth-v3)
 - 🌱 [**Soils Revealed**](https://soilsrevealed.org/) – Visualizing the impact of land use on global carbon stocks   [💻 GitHub](https://github.com/Vizzuality/soils-revealed)
@@ -40,7 +41,20 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 - 🏛️ Built a data viz platform for [**Sandbag**](https://sandbag.be/) and presented it at the **European Parliament** to EU environment ministers
 
 
-<h2><a href="https://graphaware.com/hume/">Hume</a></h2>
+<h2><a id="strategyzer-innovation-platform" href="[https://graphaware.com/hume/](https://www.strategyzer.com/platform)">Strategyzer's Innovation Platform</a></h2>
+
+<div align="left">
+  <img height="250" alt="Automatic Interviews" src="https://github.com/user-attachments/assets/6d3fd449-0bd7-462c-a448-81cc57044859" />
+  <img height="250" alt="Pre-structured Workspace" src="https://github.com/user-attachments/assets/5de80275-85a0-45c1-9e0a-ebef242d3504" />
+</div>
+<div align="left">
+  <img height="250" alt="Interviews Analysis" src="https://github.com/user-attachments/assets/efb2b6c1-8414-49a1-9676-1870eb122566" />
+  <img height="250" alt="Innovation Dashboard" src="https://github.com/user-attachments/assets/2c3366b0-8f30-498d-83af-74248216fdbb" />
+</div>
+
+**Senior Product Engineer (frontend focused) | Mar 2023 - Present**
+
+<h2><a id="hume" href="https://graphaware.com/hume/">Hume</a></h2>
 
 <a href="https://vimeo.com/123456789" target="_blank">
   <img src="https://github.com/user-attachments/assets/a4ea3da1-5974-4424-a4d3-ebb9d3d6f1b2" alt="Hume" width="500"/>
