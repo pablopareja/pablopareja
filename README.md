@@ -65,6 +65,19 @@ My role goes beyond coding: I work at the **intersection of engineering, product
 - **Reliable and Performant Frontend Architecture**: Built and maintained scalable, testable codebases using **TypeScript**, **React**, **Tailwind CSS**, **Redux**, and **Playwright**. Ensured robust integration with **Rails** backends and **PostgreSQL** databases.
 - **Commitment to Quality & Testing Culture**: Setup and maintenance of end-to-end test suites with **Playwright**, **Jest**, and Capybara, significantly reducing regressions and increasing confidence in shipping new features.
 - **Transparent Communication & Remote Collaboration**: Contributed to the health of our remote-first team culture through clear communication, progress visibility, and early surfacing of challenges. Helped maintain alignment across product, design, and engineering.
+
+
+### 💬 What Others Say About My Work at Strategyzer
+
+> _"Pablo bridges the gap between design vision and implementation—something genuinely uncommon. His ability to collaborate constructively with design and product, always working to understand intent and find creative solutions, made him invaluable to our team."_  
+> — **Head of Design, Strategyzer**
+
+> _“Pablo brings a rare mix of technical excellence and product thinking. He doesn’t just build things—he solves problems. Adaptable, creative, and invested in making the product and team better.”_  
+> — **CEO, Strategyzer**
+
+> _“He brings wonderful energy, creativity, and a broad skill set. Pablo is a true team player who has an impact far beyond the technical domain.”_  
+> — **Senior Software Engineer, Strategyzer**
+
 ---
 
 <h2><a id="hume" href="https://graphaware.com/hume/">Hume</a></h2>
