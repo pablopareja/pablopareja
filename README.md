@@ -33,7 +33,7 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
 
 ## 🧪 Selected Projects
 
-- 💡 [**Strategyzer's Innovation Platform**](#strategyzer-innovation-platform) - 
+- 💡 [**Strategyzer's Innovation Platform**](#strategyzer-innovation-platform) - a real-time collaborative environment designed to help innovation teams visualize, test, and validate business ideas _(proprietary code)_
 - ⚛️ [**Hume**](#hume) - Graph-based Connected Data Analytics Platform. Transform siloed data sources into a single view of intelligence (_proprietary code_)
 - 🌍 [**Half-Earth Project Map**](https://map.half-earthproject.org/) – Geospatial biodiversity exploration for conservation planning  [💻 GitHub](https://github.com/Vizzuality/half-earth-v3)
 - 🌱 [**Soils Revealed**](https://soilsrevealed.org/) – Visualizing the impact of land use on global carbon stocks   [💻 GitHub](https://github.com/Vizzuality/soils-revealed)
@@ -52,7 +52,19 @@ I'm a **product-minded** **fullstack engineer** (**frontend focused**) who's pas
   <img height="250" alt="Innovation Dashboard" src="https://github.com/user-attachments/assets/2c3366b0-8f30-498d-83af-74248216fdbb" />
 </div>
 
-**Senior Product Engineer (frontend focused) | Mar 2023 - Present**
+**Senior Product Engineer (Frontend focused) | Mar 2023 - Present**
+
+As a Senior Frontend Engineer at Strategyzer, I contribute to the development of the Innovation Platform; a real-time collaborative environment designed to help innovation teams visualize, test, and validate business ideas using tools like the Business Model Canvas and Value Proposition Canvas.
+
+My role goes beyond coding: I work at the **intersection of engineering, product, and design**, consistently seeking to understand product vision and user needs to deliver meaningful, high-quality solutions.
+
+### Key Contributions
+- **Real-Time Collaboration & Whiteboard UX**: Developed core features for the platform's real-time whiteboarding and collaboration tools, enabling multiple users to co-create, comment, and interact simultaneously in a shared visual space.
+- **Interactive Dashboards & Data Visualization**: Delivered dashboard visualizations that empowered users to track progress, manage experiments, and communicate insights effectively across teams.
+- **Bridging Product and Engineering**: Acted as a strong partner to product managers and designers, always prioritizing design intent while finding creative technical solutions. Focused on “how might we build this well?” instead of “can we build this?” —helping bring ambitious ideas to life.
+- **Reliable and Performant Frontend Architecture**: Built and maintained scalable, testable codebases using **TypeScript**, **React**, **Tailwind CSS**, **Redux**, and **Playwright**. Ensured robust integration with **Rails** backends and **PostgreSQL** databases.
+- **Commitment to Quality & Testing Culture**: Setup and maintenance of end-to-end test suites with **Playwright**, **Jest**, and Capybara, significantly reducing regressions and increasing confidence in shipping new features.
+- **Transparent Communication & Remote Collaboration**: Contributed to the health of our remote-first team culture through clear communication, progress visibility, and early surfacing of challenges. Helped maintain alignment across product, design, and engineering.
 
 <h2><a id="hume" href="https://graphaware.com/hume/">Hume</a></h2>
 
