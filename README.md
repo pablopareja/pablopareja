@@ -82,7 +82,7 @@ My role goes beyond coding: I work at the **intersection of engineering, product
 
 <h2><a id="hume" href="https://graphaware.com/hume/">Hume</a></h2>
 
-<a href="https://vimeo.com/123456789" target="_blank">
+<a href="https://vimeo.com/1040363708" target="_blank">
   <img src="https://github.com/user-attachments/assets/a4ea3da1-5974-4424-a4d3-ebb9d3d6f1b2" alt="Hume" width="500"/>
 </a>
 
